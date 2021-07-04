@@ -83,11 +83,6 @@ const Home = () => (
             description: 'How can we stop climate breakdown and ensure economic growth for all? The Green New Deal outlines 5 goals with 14 projects to tackle those goals.',
             url: '/projects/green-new-deal'
         }}
-        featureBoxInfo={{
-            title: 'What is the Green New Deal?',
-            description: 'How can we stop climate breakdown and ensure economic growth for all? The Green New Deal outlines 5 goals with 14 projects to tackle those goals.',
-            url: '/projects/green-new-deal'
-        }}
         
     >
         <Meta
